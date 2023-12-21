@@ -37,8 +37,8 @@
 ![image](https://github.com/mythriekkaluri2005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231422/dd155227-be3d-4fba-80b6-9cc86d4d8282)
 
 
-### Name:
-### Register Number:
+### Name:Ekkaluri Mythri
+### Register Number:23003922
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
